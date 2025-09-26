@@ -109,7 +109,7 @@ ListadorDeCripto/
   - `vs_currency=usd` (preços em dólar)
   - `order=market_cap_desc` (ordenação por market cap)
   - `per_page=10` (limite de 10 resultados)
-  
+
 ## 📚 Conceitos Aplicados
 
 ### **Clean Code**
@@ -162,7 +162,7 @@ Como projeto de aprendizado contínuo, planejo implementar:
 ## 👨‍💻 Desenvolvedor
 
 **Enzo G. Rodrigues**
-- 🎯 Foco em desenvolvimento front-end
+- 🎯 Foco em desenvolvimento back-end (Node.js) mas buscando o full-stack.
 - 📈 Constantemente aprimorando habilidades técnicas
 - 🌱 Sempre em busca de novos desafios e tecnologias
 
