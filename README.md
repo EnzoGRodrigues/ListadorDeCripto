@@ -170,8 +170,6 @@ Como projeto de aprendizado contínuo, planejo implementar:
 
 <div align="center">
 
-### ⭐ Se este projeto foi útil para você, considere dar uma estrela!
-
-**Desenvolvido com 💜 como projeto de aprendizado**
+**Desenvolvido como projeto de aprendizado**
 
 </div>
