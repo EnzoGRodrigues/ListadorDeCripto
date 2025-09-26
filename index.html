@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/global.css">
+    <title>Listador de Criptomoedas</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Crypto Tracker</h1>
+        <p class="subtitle">Dados das 10 principais criptomoedas.</p>
+        
+        <button id="update-btn" class="btn">Atualizar Dados</button>
+
+        <div class="crypto-list-container">
+            <table class="crypto-table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Nome</th>
+                        <th>Símbolo</th>
+                        <th>Preço (USD)</th>
+                    </tr>
+                </thead>
+                <tbody id="crypto-table-body">
+                    </tbody>
+            </table>
+        </div>
+
+        <p id="status-message" class="message"></p>
+    </div>
+    <script src="/assets/js/cryptoApi.js"></script>
+    <script src="/assets/js/main.js"></script>
+</body>
+</html>
