@@ -109,47 +109,7 @@ ListadorDeCripto/
   - `vs_currency=usd` (preços em dólar)
   - `order=market_cap_desc` (ordenação por market cap)
   - `per_page=10` (limite de 10 resultados)
-
-## 🎨 Preview
-
-A aplicação apresenta uma interface limpa e moderna com:
-- Header com título e descrição
-- Botão de atualização dos dados
-- Tabela responsiva com ranking, nome, símbolo e preço
-- Mensagens de status (carregando, sucesso, erro)
-- Design mobile-first
-
-### 📱 Capturas de Tela
-
-<div align="center">
-
-<!-- Desktop View -->
-<img src="./assets/images/desktop-view.png" alt="Desktop View" width="600">
-
-*Versão Desktop*
-
-<!-- Mobile View -->
-<img src="./assets/images/mobile-view.png" alt="Mobile View" width="300">
-
-*Versão Mobile*
-
-<!-- Loading State -->
-<img src="./assets/images/loading-state.png" alt="Loading State" width="400">
-
-*Estado de Carregamento*
-
-</div>
-
-> 📝 **Como adicionar suas próprias screenshots:**
-> ```
-> assets/
-> └── images/
->     ├── preview.png          # Screenshot principal
->     ├── desktop-view.png     # Versão desktop
->     ├── mobile-view.png      # Versão mobile
->     └── loading-state.png    # Estado de loading
-> ```
-
+  
 ## 📚 Conceitos Aplicados
 
 ### **Clean Code**
