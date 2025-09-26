@@ -35,8 +35,7 @@ Este projeto foi criado como um laboratório prático para desenvolver e consoli
 - ✅ Programação orientada a objetos (Classes)
 - ✅ Promises e programação assíncrona
 - ✅ Manipulação dinâmica do DOM
-- ✅ Tratamento de erros com try/catch
-- ✅ Array methods (forEach, map, push)
+- ✅ Array methods (forEach, push)
 - ✅ Template literals e formatação de dados
 
 #### **Integração com APIs**
