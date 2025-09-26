@@ -10,7 +10,8 @@ O **Listador de Criptomoedas** é uma aplicação web que exibe em tempo real as
 
 <div align="center">
 
-![Listador de Criptomoedas - Preview](./assets/images/preview.png)
+![Listador de Criptomoedas - Preview1](./assets/images/preview1.png)
+![Listador de Criptomoedas - Preview2](./assets/images/preview2.png)
 
 *Interface principal da aplicação mostrando a lista das principais criptomoedas*
 
