@@ -9,6 +9,7 @@ const url = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&orde
 function convertCrypoApi(crypoDetail) { //converte os dados da API para o formato da classe Crypto
     let listCoins = [] //array que vai armazenar as criptomoedas convertidas
     for (let i = 0; crypoDetail.length && i < 10; i++) { //percorre o array de criptomoedas retornado pela API, mas limita a 10 itens
+        debugger
         const crypto = new Crypto() //cria um novo objeto da classe Crypto
         
         //atribui os valores retornados pela API para os atributos do objeto
