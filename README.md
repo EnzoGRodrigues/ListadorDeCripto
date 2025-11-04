@@ -1,6 +1,6 @@
 # 🚀 Listador de Criptomoedas
 
-> Projeto pessoal desenvolvido para aprimorar minhas hard skills em desenvolvimento back-end
+> Projeto pessoal desenvolvido para aprimorar minhas hard skills em desenvolvimento front-end
 
 ## 📖 Sobre o Projeto
 
