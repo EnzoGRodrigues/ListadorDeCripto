@@ -146,19 +146,6 @@ const row = document.createElement('tr')
 const nameCell = document.createElement('td')
 tableBody.appendChild(row)
 ```
-
-## 🔄 Próximos Passos
-
-Como projeto de aprendizado contínuo, planejo implementar:
-
-- [ ] **Cache de dados** para melhor performance
-- [ ] **Filtros e busca** por criptomoedas específicas
-- [ ] **Gráficos de preços** com Chart.js
-- [ ] **Dark mode** toggle
-- [ ] **Paginação** para mais resultados
-- [ ] **Testes unitários** com Jest
-- [ ] **PWA features** (Service Workers, offline support)
-
 ## 👨‍💻 Desenvolvedor
 
 **Enzo G. Rodrigues**
